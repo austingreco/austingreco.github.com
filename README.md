@@ -1,3 +1,3 @@
-brownian-canvas
+Austin Greco
 ===============
-[austingreco.github.com](http://austingreco.github.com)
+[austingreco.github.io](http://austingreco.github.io)
